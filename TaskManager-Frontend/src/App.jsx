@@ -45,7 +45,6 @@ function App() {
       <div className="container">
         <div className="header">
           <span className="logo-bg">
-            {/* circular target icon */}
             <svg width="42" height="42" fill="none">
               <circle cx="21" cy="21" r="16" stroke="#8557ff" strokeWidth="5"/>
               <circle cx="21" cy="21" r="7" fill="#b093fa"/>
