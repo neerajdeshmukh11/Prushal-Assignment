@@ -127,16 +127,6 @@ Server runs on `http://localhost:3000`
 - Base URL: `http://localhost:3000`
 - Test CRUD operations with the above endpoints.
 
----
-
-## Full Frontend Code Snippets
-
-### src/App.jsx
-
-### src/App.css
-
-### src/main.jsx
-
 
 ---
 
